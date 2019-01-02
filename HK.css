@@ -11,3 +11,8 @@ body {
   background-attachment: fixed;
     
 }
+
+.pass{
+    font-size: 15px;
+    resize:none;
+}
