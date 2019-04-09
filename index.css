@@ -11,3 +11,13 @@ body {
   background-attachment: fixed;
     
 }
+
+
+table,th,td{
+  border:1px solid black;
+  border-collapse: collapse;
+  font-size:20px;
+  font-weight: normal;
+  text-align: left;
+    width:auto;
+}
